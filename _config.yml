@@ -19,13 +19,13 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: f9ae8b #80B3FF
+  primary-rgb: "249,174,139" #"128,179,255"
+  secondary: 586ba4 #FD6E8A
+  secondary-dark: 324376 #A2122F
 
 # Footer settings
-footer:
+footer: 
   copyright: Nadia Etemadi
   location: Location
   social: Around the Web
