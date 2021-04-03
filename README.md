@@ -1,32 +1,9 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+nete-madi.github.io: My personal website
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+This website is built using a Jekyll theme, based on the [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
-
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+This theme is a modification of Jerome Lachaud's version of the Freelancer bootstrap theme, which can be [found here: ](https://github.com/jeromelachaud/freelancer-theme). I have duplicated my fork of the theme into this repository; you can find the fork [here.](https://github.com/nete-madi/personal-site-fork)
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
