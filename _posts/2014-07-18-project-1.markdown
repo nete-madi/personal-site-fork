@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: CareFinder
 date: 2019-03-31
 img: hd.png
 alt: image-alt
