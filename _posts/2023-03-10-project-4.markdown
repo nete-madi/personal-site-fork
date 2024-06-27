@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+title: VideoLab
+date: 2023-03-10
+img: vl.png
+alt: image-alt
+project-date: September 2021 - June 2023
+category: Web Development, Python, Flask, Bootstrap
+description: VideoLab is my master's thesis project. It is a novel prototype that is intended to help end-users effectively record and edit video attachments to supplement bug reports. This page will be updated with my thesis once it is published! For now, the code for VideoLab can be seen <a href="https://github.com/nete-madi/bug-swatter">here.</a>
+
+
+---

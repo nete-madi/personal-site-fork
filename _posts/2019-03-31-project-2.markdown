@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+title: CareFinder
+date: 2019-03-31
+img: hd.png
+alt: image-alt
+project-date: February 2019
+category: Web Development, Bootstrap
+description: HackDavis is UC Davis's annual collegiate hackathon. In 2019, my team built Davis Displacement Database, a one-stop web application for people in the Yolo County area to find aid. We placed second overall and won Best Environmental Hack. After the hackathon, we partnered with Google to rebuild our project from the ground up. Though the website is no longer maintained, the code can be viewed <a href="https://github.com/nan-tech"> here. </a> Google's team wrote a <a href="https://edu.google.com/why-google/case-studies/carefinder/" target="_blank">case study</a> about our work. Our team no longer maintains this project, but it was a great experience nonetheless. <br><br>
+
+
+---
