@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 title: VideoLab
 date: 2023-03-10
-img: vl.png
+img: vl-01.png
 alt: image-alt
 project-date: September 2021 - June 2023
 category: Web Development, Python, Flask, Bootstrap
